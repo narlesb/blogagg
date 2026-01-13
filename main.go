@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/narlesb/blogagg/gator/internal/config"
+	"github.com/narlesb/blogagg/internal/config"
 )
 
 func main() {
